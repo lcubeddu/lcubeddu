@@ -1,4 +1,8 @@
-## Hi there 👋
+## 📌 Developer based in Lille, France
+
+### Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/loucas-cubeddu/)
 
 <!--
 **lcubeddu/lcubeddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
