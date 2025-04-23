@@ -1,5 +1,7 @@
 ## 📌 Developer based in Lille, France
 
+[loucascubeddu.com](https://loucascubeddu.com)
+
 ### Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/loucas-cubeddu/)
