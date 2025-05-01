@@ -1,6 +1,6 @@
-## 📌 Developer based in Lille, France
+## 📌 Mobile and Backend Developer based in Lille, France
 
-[loucascubeddu.com](https://loucascubeddu.com)
+WEBSITE: [loucascubeddu.com](https://loucascubeddu.com)
 
 ### Profiles
 
