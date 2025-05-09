@@ -1,4 +1,4 @@
-## 📌 Mobile and Backend Developer based in Lille, France
+## 📌 Backend Developer based in Lille, France
 
 [Visit my website at loucascubeddu.com](https://loucascubeddu.com)
 
