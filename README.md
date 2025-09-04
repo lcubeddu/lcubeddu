@@ -1,6 +1,4 @@
-## 📌 Fullstack Developer based in Lille, France
-
-[Visit my website at loucascubeddu.com](https://loucascubeddu.com)
+## 📌 Developer based in Lille, France
 
 ### Profiles
 
