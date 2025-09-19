@@ -1,4 +1,4 @@
-## 📌 Developer based in Lille, France
+## Developer based in Lille, France
 
 ### Profiles
 
